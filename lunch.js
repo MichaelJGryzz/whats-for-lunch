@@ -25,7 +25,7 @@ const whatToDoForLunch = function(hungry, availableTime) {
       console.log("This is an intense program. You should probably reconsider.");
     }
   }
-}
+};
 
 
 
